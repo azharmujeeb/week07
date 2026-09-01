@@ -1,3 +1,6 @@
+# Task 7.1P CI push trigger verification
+
+
 name: CI Pipeline
 
 on:
