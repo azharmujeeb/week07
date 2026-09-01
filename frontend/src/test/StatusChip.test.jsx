@@ -17,7 +17,7 @@ describe("StatusChip", () => {
     );
 
     expect(
-      screen.getByText("WRONG_VALUE")
+      screen.getByText("active")
     ).toBeInTheDocument();
   });
 
